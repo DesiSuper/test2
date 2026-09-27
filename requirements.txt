@@ -1,0 +1,16 @@
+hydrogram
+TgCrypto==1.2.5
+motor
+dnspython
+aiohttp
+aiodns
+aiofiles
+uvloop
+bcrypt
+qrcode
+Pillow
+pytz
+pyromod
+pymongo
+orjson
+lru-dict==1.3.0
